@@ -8680,7 +8680,7 @@ msgstr "СОДЕРЖИМОЕ ВАРЕЗА"
 #: STRINGS.UI.SHOP_SELL_AREYOUSURE
 msgctxt "STRINGS.UI.SHOP_SELL_AREYOUSURE"
 msgid "Are you sure you want to sell %s for %d credits?"
-msgstr "Вы уверены, что хотите продать %s за %d кредитов?"
+msgstr "Вы уверены, что хотите продать {1} за {2} кредитов?"
 
 #: STRINGS.UI.SHOP_SELL_AREYOUSURE_TITLE
 msgctxt "STRINGS.UI.SHOP_SELL_AREYOUSURE_TITLE"
@@ -9715,7 +9715,7 @@ msgstr "Уже пойман"
 #: STRINGS.UI.REASON.COOLDOWN
 msgctxt "STRINGS.UI.REASON.COOLDOWN"
 msgid "%d MORE TURNS TO COOLDOWN."
-msgstr "%d ХОДОВ ДО ПОЛНОЙ ПЕРЕЗАРЯДКИ."
+msgstr "{1} {1:ХОД|ХОДА|ХОДОВ} ДО ПОЛНОЙ ПЕРЕЗАРЯДКИ."
 
 #: STRINGS.UI.REASON.MONST3R_REQUIRED
 msgctxt "STRINGS.UI.REASON.MONST3R_REQUIRED"
@@ -10845,7 +10845,7 @@ msgstr "ПОХИТИТЬ [{1} ЭНЕРГИИ]"
 #: STRINGS.ABILITIES.HIJACK_CONSOLE_NAMES.GET_PWR_BONUS
 msgctxt "STRINGS.ABILITIES.HIJACK_CONSOLE_NAMES.GET_PWR_BONUS"
 msgid "HIJACK [%d PWR] +%d BONUS"
-msgstr "ПОХИТИТЬ [%d ЭНЕРГИИ] +%d БОНУС"
+msgstr "ПОХИТИТЬ [{1} ЭНЕРГИИ] +{2} БОНУС"
 
 #: STRINGS.ABILITIES.JACKIN
 msgctxt "STRINGS.ABILITIES.JACKIN"
