@@ -47,6 +47,11 @@ msgctxt "STRINGS.FORMATS.PWR"
 msgid "{1} PWR"
 msgstr "{1} ЭНЕРГИЯ"
 
+#: STRINGS.FORMATS.PLUS_PWR
+msgctxt "STRINGS.FORMATS.PLUS_PWR"
+msgid "+{1} PWR"
+msgstr "+{1} ЭНЕРГИИ"
+
 #: STRINGS.FORMATS.CREDS
 msgctxt "STRINGS.FORMATS.CREDS"
 msgid "{1}"
@@ -61,6 +66,11 @@ msgstr "{1} кредит"
 msgctxt "STRINGS.FORMATS.REP"
 msgid "{1} REP"
 msgstr "{1} РЕП"
+
+#: STRINGS.FORMATS.AP
+msgctxt "STRINGS.FORMATS.AP"
+msgid "{1} AP"
+msgstr "{1} ОД"
 
 #: STRINGS.FORMATS.MAX_AP
 msgctxt "STRINGS.FORMATS.MAX_AP"
@@ -3790,7 +3800,7 @@ msgstr "Найти терминал руководства корпорацие�
 #: STRINGS.MISSIONS.LOCATIONS.TERMINALS.REWARD
 msgctxt "STRINGS.MISSIONS.LOCATIONS.TERMINALS.REWARD"
 msgid "Pinpoint new corporate locations of interest."
-msgstr "Выяснить новые места для последующей работы."
+msgstr "Будут определены местоположения новых объектов корпорации, представляющих интерес."
 
 #: STRINGS.MISSIONS.LOCATIONS.NANO_FAB.NAME
 msgctxt "STRINGS.MISSIONS.LOCATIONS.NANO_FAB.NAME"
@@ -9310,7 +9320,7 @@ msgstr "ДЕНЬ %02d /"
 #: STRINGS.UI.MAP_SCREEN_REMAINING
 msgctxt "STRINGS.UI.MAP_SCREEN_REMAINING"
 msgid "HOURS REMAINING <c:F4FF78>%s</>"
-msgstr "ОСТАЛОСЬ <c:F4FF78>{1}</> {1:ЧАС|ЧАСА|ЧАСОВ}"
+msgstr "{1:ОСТАЛСЯ|ОСТАЛОСЬ|ОСТАЛОСЬ} <c:F4FF78>{1}</> {1:ЧАС|ЧАСА|ЧАСОВ}"
 
 #: STRINGS.UI.MAP_SCREEN_EXPIRES
 msgctxt "STRINGS.UI.MAP_SCREEN_EXPIRES"
@@ -10830,7 +10840,7 @@ msgstr "ПРЕОБРАЗОВАТЬ [%d ЭНЕРГИИ] +%d БОНУС В +%d К�
 #: STRINGS.ABILITIES.HIJACK_CONSOLE_NAMES.GET_PWR
 msgctxt "STRINGS.ABILITIES.HIJACK_CONSOLE_NAMES.GET_PWR"
 msgid "HIJACK [%d PWR]"
-msgstr "ПОХИТИТЬ [%d ЭНЕРГИИ]"
+msgstr "ПОХИТИТЬ [{1} ЭНЕРГИИ]"
 
 #: STRINGS.ABILITIES.HIJACK_CONSOLE_NAMES.GET_PWR_BONUS
 msgctxt "STRINGS.ABILITIES.HIJACK_CONSOLE_NAMES.GET_PWR_BONUS"
