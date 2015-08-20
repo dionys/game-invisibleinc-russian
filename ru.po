@@ -7147,6 +7147,11 @@ msgctxt "STRINGS.UI.DIFF_OPTION_SHOW_SETTINGS_TIP"
 msgid "<c:FF8411>SHOW SETTINGS</c>\nToggling this button will show all the settings used to generate the campaigns. Changing any of the options will put you into CUSTOM mode"
 msgstr "<c:FF8411>ПОКАЗАТЬ НАСТРОЙКИ</c>\nПозволяет включить или выключить диалоговое окно настроек, используемых при генерировании кампании. Изменение любой из них переключит вас в пользовательский режим."
 
+#: STRINGS.UI.DIFFICULTY_FORMAT
+msgctxt "STRINGS.UI.DIFFICULTY_FORMAT"
+msgid "{1} Difficulty"
+msgstr "Сложность: {1}"
+
 #: STRINGS.UI.NORMAL_DIFFICULTY
 msgctxt "STRINGS.UI.NORMAL_DIFFICULTY"
 msgid "Beginner"
@@ -9305,7 +9310,7 @@ msgstr "ДЕНЬ %02d /"
 #: STRINGS.UI.MAP_SCREEN_REMAINING
 msgctxt "STRINGS.UI.MAP_SCREEN_REMAINING"
 msgid "HOURS REMAINING <c:F4FF78>%s</>"
-msgstr "ОСТАЛОСЬ <c:F4FF78>%s</> ЧАСОВ"
+msgstr "ОСТАЛОСЬ <c:F4FF78>{1}</> {1:ЧАС|ЧАСА|ЧАСОВ}"
 
 #: STRINGS.UI.MAP_SCREEN_EXPIRES
 msgctxt "STRINGS.UI.MAP_SCREEN_EXPIRES"
@@ -9325,7 +9330,7 @@ msgstr "МЕСТОПОЛОЖЕНИЕ"
 #: STRINGS.UI.MAP_SCREEN_TRAVEL_TIME
 msgctxt "STRINGS.UI.MAP_SCREEN_TRAVEL_TIME"
 msgid "%s: %d HOURS"
-msgstr "%s: %d ЧАСОВ"
+msgstr "{1}: {2} {2:ЧАС|ЧАСА|ЧАСОВ}"
 
 #: STRINGS.UI.MAP_SCREEN_REMAINING_TOOLTIP
 msgctxt "STRINGS.UI.MAP_SCREEN_REMAINING_TOOLTIP"
@@ -9484,8 +9489,8 @@ msgstr "Обучение"
 
 #: STRINGS.UI.SAVESLOTS.DAYS_SPENT
 msgctxt "STRINGS.UI.SAVESLOTS.DAYS_SPENT"
-msgid "%02d DAYS / %02d HOURS"
-msgstr "%02d ДНЕЙ / %02d ЧАСОВ"
+msgid "{1} {2:DAY|DAYS} / {3} {4:HOUR|HOURS}"
+msgstr "{1} {2:ДЕНЬ|ДНЯ|ДНЕЙ} / {3} {4:ЧАС|ЧАСА|ЧАСОВ}"
 
 #: STRINGS.UI.SAVESLOTS.EMPTY_SLOT
 msgctxt "STRINGS.UI.SAVESLOTS.EMPTY_SLOT"
@@ -11275,7 +11280,7 @@ msgstr "Воздействие KO"
 #: STRINGS.ITEMS.TOOLTIPS.KO_DAMAGE_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.KO_DAMAGE_DESC"
 msgid "Knocks a guard out for %d turns"
-msgstr "Вырубает охранника на %d хода"
+msgstr "Вырубает охранника на {1} {1:ход|хода|ходов}"
 
 #: STRINGS.ITEMS.TOOLTIPS.RECHARGE
 msgctxt "STRINGS.ITEMS.TOOLTIPS.RECHARGE"
@@ -11285,7 +11290,7 @@ msgstr "Перезарядка"
 #: STRINGS.ITEMS.TOOLTIPS.RECHARGE_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.RECHARGE_DESC"
 msgid "%d turn cooldown"
-msgstr "%d хода"
+msgstr "{1} {1:ход|хода|ходов}"
 
 #: STRINGS.ITEMS.TOOLTIPS.COSTPOWER
 msgctxt "STRINGS.ITEMS.TOOLTIPS.COSTPOWER"
