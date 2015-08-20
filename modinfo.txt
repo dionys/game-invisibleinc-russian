@@ -1,0 +1,3 @@
+locale = Russian
+poFile = ru.po
+id = Russian
