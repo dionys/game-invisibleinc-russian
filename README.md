@@ -1,3 +1,3 @@
-Это клон мода Russian Language Pack для игры Invisible, Inc.
+Р­С‚Рѕ РєР»РѕРЅ РјРѕРґР° Russian Language Pack РґР»СЏ РёРіСЂС‹ Invisible, Inc.
 
-Оригинальный мод находится в Steam Store http://steamcommunity.com/sharedfiles/filedetails/?id=429385151
+РћСЂРёРіРёРЅР°Р»СЊРЅС‹Р№ РјРѕРґ РЅР°С…РѕРґРёС‚СЃСЏ РІ Steam Store http://steamcommunity.com/sharedfiles/filedetails/?id=429385151
