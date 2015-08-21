@@ -4742,6 +4742,31 @@ msgctxt "STRINGS.PROGRAMS.HUNTER.TIP_DESC"
 msgid "KILLS <c:FF8411>DAEMON</c>. COST: <c:77FF77>%d PWR</c>"
 msgstr "УНИЧТОЖАЕТ <c:FF8411>РЕЗИДЕНТ</c> ЦЕНА: <c:77FF77>%d ЭНЕРГИИ</c>"
 
+#: STRINGS.PROGRAMS.FLARE.NAME
+msgctxt "STRINGS.PROGRAMS.FLARE.NAME"
+msgid "FLARE"
+msgstr "ВСПЫШКА"
+
+#: STRINGS.PROGRAMS.FLARE.DESC
+msgctxt "STRINGS.PROGRAMS.FLARE.DESC"
+msgid "Breaks 4 FIREWALLS for 0 PWR. +1 to all FIREWALLS\n3 turn cooldown."
+msgstr "Разрушает 4 СЕТЕВЫХ ЭКРАНА за 0 ЭНЕРГИИ. +1 всем СЕТЕВЫМ ЭКРАНАМ\n3 хода на восстановление"
+
+#: STRINGS.PROGRAMS.FLARE.SHORT_DESC
+msgctxt "STRINGS.PROGRAMS.FLARE.SHORT_DESC"
+msgid "Break 4 Firewalls, +1 to all FIREWALLS"
+msgstr "Разрушает 4 сетевых экрана, +1 всем СЕТЕВЫМ ЭКРАНАМ"
+
+#: STRINGS.PROGRAMS.FLARE.HUD_DESC
+msgctxt "STRINGS.PROGRAMS.FLARE.HUD_DESC"
+msgid "BREAKS 4 FIREWALLS, +1 TO ALL FIREWALLS"
+msgstr "РАЗРУШАЕТ 4 СЕТЕВЫХ ЭКРАНА, +1 ВСЕМ СЕТЕВЫМ ЭКРАНАМ"
+
+#: STRINGS.PROGRAMS.FLARE.TIP_DESC
+msgctxt "STRINGS.PROGRAMS.FLARE.TIP_DESC"
+msgid "BREAKS <c:FF8411>4 FIREWALLS</c>. +1 TO ALL FIREWALLS. COST: <c:77FF77>{1} PWR</c>"
+msgstr "РАЗРУШАЕТ <c:FF8411>4 СЕТЕВЫХ ЭКРАНА</c>. +1 ВСЕМ СЕТЕВЫМ ЭКРАНАМ. СТОИМОСТЬ: <c:77FF77>{1} ЭНЕРГИИ</c>"
+
 #: STRINGS.PROGRAMS.PING.NAME
 msgctxt "STRINGS.PROGRAMS.PING.NAME"
 msgid "PING"
