@@ -4269,13 +4269,13 @@ msgstr "УБЕГАЕТ"
 
 #: STRINGS.PROGRAMS.POWER_PER_TURN
 msgctxt "STRINGS.PROGRAMS.POWER_PER_TURN"
-msgid "%d PWR / TURN"
-msgstr "%d ЭНЕРГИИ / ХОД"
+msgid "{1} PWR / TURN"
+msgstr "{1} ЭНЕРГИИ / ХОД"
 
 #: STRINGS.PROGRAMS.POWER
 msgctxt "STRINGS.PROGRAMS.POWER"
-msgid "%d PWR"
-msgstr "%d ЭНЕРГИИ"
+msgid "{1} PWR"
+msgstr "{1} ЭНЕРГИИ"
 
 #: STRINGS.PROGRAMS.COST
 msgctxt "STRINGS.PROGRAMS.COST"
@@ -4289,8 +4289,8 @@ msgstr "СТОИМОСТЬ: %d ЭНЕРГИИ ЗА ХОД"
 
 #: STRINGS.PROGRAMS.COOLDOWN
 msgctxt "STRINGS.PROGRAMS.COOLDOWN"
-msgid "COOLDOWN: %d TURNS"
-msgstr "ПЕРЕЗАРЯДКА: %d ХОДОВ"
+msgid "COOLDOWN: {1} {1:TURN|TURNS}"
+msgstr "ПЕРЕЗАРЯДКА: {1} {1:ХОД|ХОДА|ХОДОВ}"
 
 #: STRINGS.PROGRAMS.PWR
 msgctxt "STRINGS.PROGRAMS.PWR"
@@ -11319,8 +11319,8 @@ msgstr "Дистанция"
 
 #: STRINGS.ITEMS.TOOLTIPS.RANGE_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.RANGE_DESC"
-msgid "The effect will reach %d tiles"
-msgstr "Эффект будет распространяться на %d клеток"
+msgid "The effect will reach {1} {1:tile|tiles}"
+msgstr "Воздействию {1:подвергнется|подвергнутся|подвергнутся} {1} {1:клетка|клетки|клеток}"
 
 #: STRINGS.ITEMS.TOOLTIPS.CANTAG
 msgctxt "STRINGS.ITEMS.TOOLTIPS.CANTAG"
