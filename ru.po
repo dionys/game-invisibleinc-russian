@@ -3800,7 +3800,7 @@ msgstr "Найти терминал руководства корпорацие�
 #: STRINGS.MISSIONS.LOCATIONS.TERMINALS.REWARD
 msgctxt "STRINGS.MISSIONS.LOCATIONS.TERMINALS.REWARD"
 msgid "Pinpoint new corporate locations of interest."
-msgstr "Будут определены местоположения новых объектов корпорации, представляющих интерес."
+msgstr "Будут определены местоположения объектов корпораций, представляющих интерес."
 
 #: STRINGS.MISSIONS.LOCATIONS.NANO_FAB.NAME
 msgctxt "STRINGS.MISSIONS.LOCATIONS.NANO_FAB.NAME"
@@ -6840,7 +6840,7 @@ msgstr "Нет доступных ячеек под улучшения. Улуч
 #: STRINGS.UI.DIFFICULTYDESC.1
 msgctxt "STRINGS.UI.DIFFICULTYDESC.1"
 msgid "The facility is guarded by civilian-level security forces and minimal infoSec assets."
-msgstr "Здание охраняется охраной гражданского типа с минимальным вовлечением сил infoSec."
+msgstr "Здание охраняется силами безопасности гражданского типа с минимальным вовлечением сил infoSec."
 
 #: STRINGS.UI.DIFFICULTYDESC.2
 msgctxt "STRINGS.UI.DIFFICULTYDESC.2"
@@ -10445,7 +10445,7 @@ msgstr "{1} получил <c:F4FF78>{2}</c> и положил это на по�
 #: STRINGS.CORP.FTM.NAME
 msgctxt "STRINGS.CORP.FTM.NAME"
 msgid "Factory to Market Wholesalers"
-msgstr "Фабрика рынка оптовых продаж"
+msgstr "Factory to Market Wholesalers"
 
 #: STRINGS.CORP.FTM.SHORTNAME
 msgctxt "STRINGS.CORP.FTM.SHORTNAME"
@@ -10455,7 +10455,7 @@ msgstr "FTM"
 #: STRINGS.CORP.FTM.DESCRIPTION
 msgctxt "STRINGS.CORP.FTM.DESCRIPTION"
 msgid "FTM is the world's largest producer of consumer electronics. Traditionally a downmarket producer trading on volume, they have recently introduced a line of professional grade security and surveillance products."
-msgstr "FTM — самый большой в мире производитель потребительской электроники. Традиционно производя ширпотреб и зарабатывая на объёмах, не так давно они добавили линию профессиональных продуктов слежения и безопасности."
+msgstr "FTM — крупнейший в мире производитель бытовой электротехники, обычно выпускающий ширпотреб и зарабатывающий на объёмах. Однако недавно компания представила линию профессиональных продуктов слежения и безопасности."
 
 #: STRINGS.CORP.FTM.SHORTDESC
 msgctxt "STRINGS.CORP.FTM.SHORTDESC"
@@ -10475,7 +10475,7 @@ msgstr "Ручные барьерные проекторы"
 #: STRINGS.CORP.SANKAKU.NAME
 msgctxt "STRINGS.CORP.SANKAKU.NAME"
 msgid "Sankaku Heavy Industries"
-msgstr "Тяж-пром Sankaku"
+msgstr "Sankaku Heavy Industries"
 
 #: STRINGS.CORP.SANKAKU.SHORTNAME
 msgctxt "STRINGS.CORP.SANKAKU.SHORTNAME"
@@ -10490,7 +10490,7 @@ msgstr "Sankaku начинали как поставщик промышленн�
 #: STRINGS.CORP.SANKAKU.SHORTDESC
 msgctxt "STRINGS.CORP.SANKAKU.SHORTDESC"
 msgid "Specializing in robotics, you can expect weaponized drones."
-msgstr "Учитывая специализацию в робототехнике, следует ожидать вооружённых дронов."
+msgstr "Учитывая специализацию компании в роботостроении, следует ожидать вооружённых дронов."
 
 #: STRINGS.CORP.SANKAKU.THREATS.1
 msgctxt "STRINGS.CORP.SANKAKU.THREATS.1"
