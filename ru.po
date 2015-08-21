@@ -534,7 +534,7 @@ msgstr "ИЗ АРХИВА — ПРОФЕССОР"
 
 #: STRINGS.AGENTS.XU.ALT_2.BIO
 msgctxt "STRINGS.AGENTS.XU.ALT_2.BIO"
-msgid "As a graduate student, Tony Xu's reputation for success was matched only by his reputation for taking 'academic shortcuts'. His family connections saved him from outright expulsion, but word spreads quickly in the ivory tower.\n\Undeterred by scandal, he earned his Doctorate in record time and moved on to lucrative freelance security contracts."
+msgid "As a graduate student, Tony Xu's reputation for success was matched only by his reputation for taking 'academic shortcuts'. His family connections saved him from outright expulsion, but word spreads quickly in the ivory tower.\nUndeterred by scandal, he earned his Doctorate in record time and moved on to lucrative freelance security contracts."
 msgstr "Во времена аспирантуры популярность Тони Зу могла соперничать только лишь с его пристрастием прогуливать. Семейные связи спасали его от неминуемого отчисления, но проблема приобретала угрожающие масштабы.\nВ конце концов, невзирая на скандалы он защитил кандидатскую в рекордные сроки и занялся прибыльными контрактами по системам безопасности."
 
 #: STRINGS.AGENTS.XU.ALT_2.TOOLTIP
