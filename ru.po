@@ -60,7 +60,7 @@ msgstr "{1}"
 #: STRINGS.FORMATS.CREDS2
 msgctxt "STRINGS.FORMATS.CREDS2"
 msgid "{1} credits"
-msgstr "{1} кредит"
+msgstr "{1} {1:кредит|кредита|кредитов}"
 
 #: STRINGS.FORMATS.REP
 msgctxt "STRINGS.FORMATS.REP"
@@ -75,7 +75,7 @@ msgstr "{1} ОД"
 #: STRINGS.FORMATS.MAX_AP
 msgctxt "STRINGS.FORMATS.MAX_AP"
 msgid "MAX AP: {1}"
-msgstr "MAКС ОД: {1}"
+msgstr "MAКС. ОД: {1}"
 
 #: STRINGS.FORMATS.PLUS_AP
 msgctxt "STRINGS.FORMATS.PLUS_AP"
