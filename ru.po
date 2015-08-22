@@ -2967,6 +2967,11 @@ msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_CYBERLAB"
 msgid "Locate the Cyberlab"
 msgstr "Обнаружить Киберлаб"
 
+#: STRINGS.MISSIONS.ESCAPE.OBJ_CYBERLAB_2
+msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_CYBERLAB_2"
+msgid "Augment agent with Grafter"
+msgstr "Улучшить агента с помощью Инжектора"
+
 #: STRINGS.MISSIONS.ESCAPE.OBJ_RESCUE_PRISONER
 msgctxt "STRINGS.MISSIONS.ESCAPE.OBJ_RESCUE_PRISONER"
 msgid "Rescue the prisoner"
@@ -4404,8 +4409,8 @@ msgstr "РАЗРУШИТЬ 1 СЕТЕВОЙ ЭКРАН"
 
 #: STRINGS.PROGRAMS.LOCKPICK.TIP_DESC
 msgctxt "STRINGS.PROGRAMS.LOCKPICK.TIP_DESC"
-msgid "BREAKS <c:FF8411>1 FIREWALL</c>. COST: <c:77FF77>%d PWR</c>"
-msgstr "ПРОНИКАЕТ ЧЕРЕЗ <c:FF8411>1 СЕТЕВОЙ ЭКРАН</c>. СТОИМОСТЬ: <c:77FF77>%d ЭНЕРГИИ</c>"
+msgid "BREAKS <c:FF8411>1 FIREWALL</c>. COST: <c:77FF77>{1} PWR</c>"
+msgstr "ПРОНИКАЕТ ЧЕРЕЗ <c:FF8411>1 СЕТЕВОЙ ЭКРАН</c>. СТОИМОСТЬ: <c:77FF77>{1} ЭНЕРГИИ</c>"
 
 #: STRINGS.PROGRAMS.RAPIER.NAME
 msgctxt "STRINGS.PROGRAMS.RAPIER.NAME"
@@ -7529,8 +7534,8 @@ msgstr "Они пробились через первый уровень шиф�
 
 #: STRINGS.UI.ALARM_ENFORCERS
 msgctxt "STRINGS.UI.ALARM_ENFORCERS"
-msgid "The corporation has called in %d elite enforcer(s). Their security has also pinpointed %d agent location(s)."
-msgstr "Корпорация призвала %d элитных силовика. Кроме того, система безопасности отметила %d потенциальных местонахождения агентов."
+msgid "The corporation has called in {1} elite {1:enforcer|enforcers}. Their security has also pinpointed {2} agent {2:location|locations}."
+msgstr "Корпорация призвала {1} {1:элитного силовика|элитных силовиков|элитных силовиков}. Кроме того, система безопасности отметила {2} {2:потенциальное местонахождение|потенциальных местонахождения|потенциальных местонахождений} агентов."
 
 #: STRINGS.UI.ALARM_TOOLTIP
 msgctxt "STRINGS.UI.ALARM_TOOLTIP"
@@ -11334,8 +11339,8 @@ msgstr "Использует ЭНЕРГИЮ"
 
 #: STRINGS.ITEMS.TOOLTIPS.COSTPOWER_DESC
 msgctxt "STRINGS.ITEMS.TOOLTIPS.COSTPOWER_DESC"
-msgid "Consumes %d PWR when used"
-msgstr "Потребляет %d ЭНЕРГИИ во время использования"
+msgid "Consumes {1} PWR when used"
+msgstr "При использовании потребляет {1} ЭНЕРГИИ"
 
 #: STRINGS.ITEMS.TOOLTIPS.RANGE
 msgctxt "STRINGS.ITEMS.TOOLTIPS.RANGE"
@@ -15018,10 +15023,10 @@ msgctxt "STRINGS.SCREENS.STR_647685599"
 msgid "EXECUTIVE TERMINALS"
 msgstr "СЛУЖЕБНЫЕ ТЕРМИНАЛЫ"
 
-#: STRINGS.SCREENS.STR_2778001153
-msgctxt "STRINGS.SCREENS.STR_2778001153"
-msgid "Prepare a patient with a <c:F4FF78>new blank Augment socket</>. A particularly invasive operation which requires applying a sedative. <c:FF3300>(KO FOR 2 TURNS)</>"
-msgstr "Обеспечивает пациента <c:F4FF78>новой пустой ячейкой для улучшений</>. Частично инвазивная операция, требующая применения обезболивающих. <c:FF3300>(KO на 2 хода)</>"
+#: STRINGS.SCREENS.STR_959355402
+msgctxt "STRINGS.SCREENS.STR_959355402"
+msgid "<c:8AEFEF>Prepare a patient with a <c:F4FF78>new blank Augment socket</>. A particularly invasive operation which requires applying a sedative. <c:FF3300>(KO FOR 2 TURNS)</></>"
+msgstr "<c:8AEFEF>Имплантирует пациенту <c:F4FF78>новую пустую ячейку для улучшений</>. Частично инвазивная операция, требующая применения обезболивающих. <c:FF3300>(KO на 2 хода)</></>"
 
 #: STRINGS.SCREENS.STR_1118044433
 msgctxt "STRINGS.SCREENS.STR_1118044433"
@@ -15033,20 +15038,20 @@ msgctxt "STRINGS.SCREENS.STR_800599109"
 msgid "FUNCTION 2 / Install Augment"
 msgstr "ФУНКЦИЯ 2 / Установить улучшение"
 
-#: STRINGS.SCREENS.STR_2629797408
-msgctxt "STRINGS.SCREENS.STR_2629797408"
-msgid "FUNCTION 1 / Install Socket"
-msgstr "ФУНКЦИЯ 1 / Установить ячейку"
+#: STRINGS.SCREENS.STR_1038670490
+msgctxt "STRINGS.SCREENS.STR_1038670490"
+msgid "FUNCTION 1 / Add Socket"
+msgstr "ФУНКЦИЯ 1 / Добавить ячейку"
 
 #: STRINGS.SCREENS.STR_301926882
 msgctxt "STRINGS.SCREENS.STR_301926882"
 msgid "AUGMENT GRAFTER"
 msgstr "ИНЖЕКТОР УЛУЧШЕНИЙ"
 
-#: STRINGS.SCREENS.STR_2345611879
-msgctxt "STRINGS.SCREENS.STR_2345611879"
-msgid "INSTALL AUGMENT SOCKET"
-msgstr "УСТАНОВИТЬ ЯЧЕЙКУ УЛУЧШЕНИЙ"
+#: STRINGS.SCREENS.STR_485837537
+msgctxt "STRINGS.SCREENS.STR_485837537"
+msgid "ADD AUGMENT SOCKET"
+msgstr "ДОБАВИТЬ ЯЧЕЙКУ УЛУЧШЕНИЙ"
 
 #: STRINGS.SCREENS.STR_6558018
 msgctxt "STRINGS.SCREENS.STR_6558018"
